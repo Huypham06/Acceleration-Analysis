@@ -19,11 +19,14 @@ This project analyzes acceleration data collected from a smartphone and detects 
 * Peak detection
 
 ## Result
-
-* Steps: 161
-* Distance: 104 m
+  Time Domain Signal
+  Frequency Domain (FFT)
+  Step Detection
+    * Steps: 161
+    * Distance: 104 m
 
 ## How to run
 
 1. Open MATLAB
-2. Run `main.m`
+2. Set Current Folder to project directory
+3. Run `main.m`
